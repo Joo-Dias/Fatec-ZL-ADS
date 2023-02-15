@@ -6,7 +6,6 @@ public class OperacoesController {
 
 	public OperacoesController() {
 		// TODO Auto-generated constructor stub
-		// Testes
 	}
 	
 	public void concatenaVetor1000() {
